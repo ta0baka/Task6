@@ -34,7 +34,7 @@ public static final String TABLE_NAME = "reminder_table";
 </p> 
 
 ## Удаление
-При нажатии на упоминание - оно удаляется.
+Упоминание удаляется при нажатии на него.
 <p align="center">
 <img src="https://sun9-47.userapi.com/impg/4FgLpZYMevxLxWOBAR8dhp17dcF2K1CNOK-qwA/5emwb_yMbDw.jpg?size=720x1520&quality=95&sign=73969c9a348e6595ce9111438d1fd60b&type=album" width="250" height="500"> 
 </p>
