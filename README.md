@@ -5,7 +5,7 @@
 Данное приложение позволяяет устанавливать напоминания.
 - [Добавление](#добавление)
 - [Уведомление](#уведомление)
-- [Удаление](удаление)
+- [Удаление](#удаление)
 
 ## Добавление
 Напоминания вводятся на главном экране и сохраняются в базу данных. Также через главный экран можно просмотреть установленные уведомления.
@@ -27,13 +27,13 @@ public static final String TABLE_NAME = "reminder_table";
     public static final String COL_4 = "DATE";
 ```
 
-##Уведомление
+## Уведомление
 Уведомление приходит в назначенную дату и время.
 <p align="center">
 <img src="https://sun9-58.userapi.com/impg/auPoMh2Ctk1y9cA5M_S3Vs-uN0Lpr9qpAh8LHA/BHCw2BmUMrA.jpg?size=720x1520&quality=95&sign=830900730e2715b69703f9911d370b20&type=album" width="250" height="500"> 
 </p> 
 
-##Удаление
+## Удаление
 При нажатии на упоминание - оно удаляется.
 <p align="center">
 <img src="https://sun9-47.userapi.com/impg/4FgLpZYMevxLxWOBAR8dhp17dcF2K1CNOK-qwA/5emwb_yMbDw.jpg?size=720x1520&quality=95&sign=73969c9a348e6595ce9111438d1fd60b&type=album" width="250" height="500"> 
